@@ -47,3 +47,6 @@
   width: max-content;
   margin: auto;
 }
+.bg-blue {
+  background-color: var(--blue) !important;
+}
